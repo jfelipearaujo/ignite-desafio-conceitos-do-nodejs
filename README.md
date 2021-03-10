@@ -50,7 +50,7 @@ yarn test
 yarn dev
 ```
 
-### Instruções sobre o que deve ser feito
+## :eyeglasses: Instruções sobre o que deve ser feito
 
 Existe uma documentação no Notion sobre as rotas e testes, clique **[aqui](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)** para acessar!
 
