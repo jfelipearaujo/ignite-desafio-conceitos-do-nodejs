@@ -1,4 +1,4 @@
-# Ignite - Trilha NodeJS
+# 🔥 Ignite - Trilha NodeJS
 
 <h3 align="center">
   Desafio 01: Conceitos do Node.js
